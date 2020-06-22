@@ -1,7 +1,7 @@
 [![HitCount](http://hits.dwyl.com/robertoarodrigues/robertoarodrigues/goRestaurantweb.svg)](http://hits.dwyl.com/robertoarodrigues/robertoarodrigues/goRestaurantweb)
 
 <p align="center">
-  <img src="./src/assets/logodark.jpg" />
+  <img src="./src/assets/logo-goRestaurant.jpg" />
 </p>
 
 # GoRestaurant
